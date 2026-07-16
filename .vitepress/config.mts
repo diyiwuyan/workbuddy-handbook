@@ -1,18 +1,17 @@
 import { defineConfig } from 'vitepress'
 
-// WorkBuddy 自学手册 — VitePress 配置
-// 整合橙皮书、实战手册、蓝皮书内容
-
 export default defineConfig({
   lang: 'zh-CN',
   title: 'WorkBuddy 自学手册',
   description: 'WorkBuddy 自学手册 — 整合橙皮书、实战手册、蓝皮书，从安装到自动化的全链路系统指南',
   themeConfig: {
     nav: [
-      { text: '自学手册', link: '/' },
+      { text: '首页', link: '/' },
+      { text: '使用手册', link: '/p1/00.md' },
       { text: '实战案例', link: '/p2/00.md' },
       { text: '进阶篇', link: '/p3/00.md' },
-      { text: 'GitHub', link: 'https://github.com/diyiwuyan/workbuddy-handbook', target: '_blank' },
+      { text: '岗位与行业', link: '/p4/00.md' },
+      { text: '附录', link: '/appendix/00.md' },
     ],
     sidebar: {
       // ========== 第一篇：使用手册 ==========
@@ -38,7 +37,7 @@ export default defineConfig({
       // ========== 第二篇：案例篇 ==========
       '/p2/': [
         {
-          text: '案例篇',
+          text: '实战案例',
           items: [
             { text: '导读', link: '/p2/00.md' },
             { text: '第11章 办公三件套：Word、Excel、PPT', link: '/p2/11.md' },
@@ -84,15 +83,16 @@ export default defineConfig({
         {
           text: '附录',
           items: [
+            { text: '附录导读', link: '/appendix/00.md' },
             { text: '附录A 常用指令模板', link: '/appendix/a.md' },
             { text: '附录B 场景速查表', link: '/appendix/b.md' },
+            { text: '附录C Skill开发指南', link: '/appendix/c.md' },
+            { text: '附录D MCP配置参考', link: '/appendix/d.md' },
+            { text: '附录E 常见问题与避坑指南', link: '/appendix/e.md' },
           ],
         },
       ],
     },
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/diyiwuyan/workbuddy-handbook' },
-    ],
     footer: {
       message: 'WorkBuddy 自学手册 · 非官方开源指南 · 由武小森编著',
       copyright: 'CC BY-SA 4.0',

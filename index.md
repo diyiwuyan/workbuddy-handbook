@@ -9,9 +9,6 @@ hero:
     - theme: brand
       text: 开始自学
       link: /p1/00.md
-    - theme: alt
-      text: GitHub 开源
-      link: https://github.com/diyiwuyan/workbuddy-handbook
 
 features:
   - icon: 📖
@@ -26,7 +23,24 @@ features:
   - icon: 💼
     title: 第四篇 岗位与行业
     details: 不同岗位和行业如何用 WorkBuddy 把 AI 工作流做深做透
+  - icon: 📝
+    title: 附录
+    details: Skill 开发指南、MCP 配置、指令速查、常见问题与避坑
 ---
+
+## 👋 关于作者
+
+WorkBuddy 自学手册由 **武小森** 编写。
+如需交流 AI 使用心得、获取更新通知或加入读者社群，可通过以下方式联系：
+
+| 联系方式 | 说明 |
+|---------|------|
+| **知识星球** | 陆续更新各种 AI 使用图文和视频教程、AI 动向、使用技巧，并答疑解惑（限 100 人，满员后不再接受新成员） |
+| **公众号** | 获取最新 AI 工具指南和实战案例 |
+| **视频号** | 观看 AI 工具视频教程 |
+| **个人微信** | 添加作者微信（备注：自学手册读者） |
+
+<hr>
 
 # WorkBuddy 使用手册与实战指南
 
