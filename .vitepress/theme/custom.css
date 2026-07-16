@@ -1,0 +1,35 @@
+/* WorkBuddy 自学手册 — VitePress 自定义样式 */
+
+:root {
+  --vp-c-brand-1: #e8710a;
+  --vp-c-brand-2: #ef8e00;
+  --vp-c-brand-3: #f5a623;
+  --vp-c-brand-light: #f5a623;
+  --vp-c-brand-lighter: #f8c476;
+  --vp-c-brand-dark: #cc5f00;
+  --vp-c-brand-darker: #a33800;
+  --vp-home-hero-name-color: #e8710a;
+}
+
+@media (min-width: 768px) {
+  .VPHero .main {
+    padding-top: 4rem !important;
+  }
+}
+
+.VPNavBarTitle .title {
+  font-weight: 700 !important;
+}
+
+/* 图片路径处理 — 蓝皮书图片在 _assets/ 目录 */
+.markdown-body img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  margin: 1em 0;
+  max-width: 100%;
+}
+
+/* 侧边栏美化 */
+.VPSidebarItem.is-active > .item {
+  border-left-color: var(--vp-c-brand-1);
+}
