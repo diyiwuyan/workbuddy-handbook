@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "3b406d9d14b6acce",
+    "type": "split",
+    "children": [
+      {
+        "id": "28b56e05b75615dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae056bb9f54b623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "p1/04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfb9053bd5d7f912",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f2eab2c5bee43e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6781b38602379917",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a711441bf175029d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e533c1cf9e58985f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da8f99d3dcec92fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "264450d9701c2d69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ca5335741b9dc1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "p1/04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "04 的反向链接列表"
+            }
+          },
+          {
+            "id": "773781556f74e0de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "p1/04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "04 的出链列表"
+            }
+          },
+          {
+            "id": "8b65397c07698a4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "13d91028933dbaa8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c7a87116694e39fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "p1/04.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "04 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 511.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "e533c1cf9e58985f",
+  "lastOpenFiles": [
+    "assets/aihot-install.DDhhx19n.png",
+    "assets/aihot-openai-result.DVFsL6o-.png",
+    "assets/019__E9_92_89_E9_92_89-_E8_8E_B7_E5_8F_96_E5_BA_94_E7_94_A8_E5_87_AD_E8_AF_81_OI8fbW0JNo.GWm559Bt.png",
+    "assets/aihot-daily-report.CjG7nigL.png",
+    "assets/018__E9_92_89_E9_92_89-_E5_BC_80_E9_80_9A_E6_9D_83_E9_99_90_QG1zbPhcxo.DF98JOdW.png",
+    "assets/019_clip-cut_HAWrbELZIo.J0Dd9-U_.png",
+    "assets/018_video-understand_VwxLb62b1o.CTpGVkMH.png",
+    "assets/017_image_Qt1gbb7J3o.N_vE_aca.png",
+    "assets/017_transcript-result_Zyc0bjAhTo.B390CAR4.png",
+    "assets/017__E9_92_89_E9_92_89-_E6_B7_BB_E5_8A_A0_E6_9C_BA_E5_99_A8_E4_BA_BA_E8_83_BD_E5_8A_9B_ORRbbZrqgo.CZkfvmyl.png",
+    "assets/017_image_LPupbY4lGo.0baCw5hi.png",
+    "assets",
+    "p1/01.md",
+    "p1/bonus.md",
+    "p1/05.md",
+    "p1/08.md",
+    "p2/11.md",
+    "p2/00.md",
+    "p1/02.md",
+    "appendix/e.md.bak",
+    "appendix/d.md.bak",
+    "appendix/c.md.bak",
+    "appendix/b.md.bak",
+    "appendix/a.md.bak",
+    "appendix/00.md.bak",
+    "p4/27.md.bak",
+    "p4/26.md.bak",
+    "p4/00.md.bak",
+    "p1/00.md",
+    "appendix/a.md",
+    "appendix/00.md",
+    "p1/10.md",
+    "p1/04.md",
+    "appendix/c.md",
+    "appendix/b.md"
+  ]
+}
